@@ -1,0 +1,2 @@
+SELECT AVG(subscription.total) AS average_subscription_price
+FROM music_streaming_sevice.subscription;
